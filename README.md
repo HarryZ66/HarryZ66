@@ -26,3 +26,7 @@ An open-source pipeline that vets an agent or MCP server before approval: it sca
 ### Tools
 
 Python · TypeScript · Next.js · FastAPI · Claude and GPT APIs · Amazon Bedrock and AgentCore · OpenSearch · DynamoDB · ECS Fargate · AWS CDK · PyTorch
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/harry-zhang123/)
