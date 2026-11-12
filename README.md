@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+LLM+agents+checked+against+data;AI+Engineer;Software+Engineer;Forward+Deployed+Engineer&center=true&color=98c9a3&size=25">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=LLM+agents+checked+against+data;AI+Engineer;Software+Engineer;Forward+Deployed+Engineer&center=true&width=700&height=50&color=98c9a3&size=25">
 </p>
 
 ## Hello World! I am Harry 👋
