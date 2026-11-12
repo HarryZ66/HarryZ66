@@ -1,8 +1,24 @@
-## Hi, I'm Harry Zhang
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+LLM+agents+checked+against+data;AI+Engineer;Software+Engineer;Forward+Deployed+Engineer&center=true&color=98c9a3&size=25">
+</p>
 
-I build LLM agents whose answers are checked against data, not taken on trust. I'm finishing an M.S. in Information Management (Data Science) at the University of Washington (June 2027) and live in Seattle.
+## Hello World! I am Harry 👋
 
-**Open to:** AI engineer, software engineer and forward deployed engineer roles.
+#### Welcome to my GitHub!
+
+I build LLM agents whose answers are checked against data, not taken on trust.
+I work on agent systems, retrieval and evaluation, and I like turning messy real-world problems into systems people can rely on.
+
+- 📍 Seattle, WA
+- 🎓 M.S. Information Management (Data Science) @ University of Washington, June 2027
+- 🔍 Currently exploring: agent safety and evaluation on AWS
+- 💼 Open to: AI engineer, software engineer and forward deployed engineer roles
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harry-zhang123/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
+  </a>
+</p>
 
 ### Featured work
 
